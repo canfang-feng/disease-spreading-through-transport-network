@@ -1,8 +1,8 @@
-# Disease spreading through transport network
+# Disease spreading through US air transport network
 
 ![](1.png)
 
-visulize the US airport transport network based on the imported data
+the US airport transport network based on the flight data is visulized as the above map.
 
 ![](2.png)
 
