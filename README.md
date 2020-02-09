@@ -22,8 +22,10 @@ In the comparison of four correlation values, we can see that the ranking of the
 
 ![](9.png)
 
-![](10.png)
+The maximal spanning tree of the network is following map.
 
+![](10.png)
 ![](11.png)
 
+The above are scatter plots showing f_ij as functions of link properties. 	But none of the two predictor are very good at predicting f_ij. In comparison, unweighted link betweenness centrality 〖eb〗_ij has better performance than link weight w_ij.
 
