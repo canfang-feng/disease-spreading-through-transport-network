@@ -12,15 +12,13 @@ The stepwise in the curves are affected by process of epidemic spreading on impo
 The differences in spreading speed for each seed node are visible at the beginning of the epidemic. The process of epidemic spreading is from the seed to its neighbors and then to the whole network, so in the beginning, the process is mainly affected by the seed node and its neighbors. Once the epidemic spreads throughout the majority of the network, it already doesn’t matter who is the seed node, who spreads first.
 
 ![](4.png)
-
-
 ![](5.png)
-
 ![](6.png)
-
 ![](7.png)
 
 ![](8.png)
+
+In the comparison of four correlation values, we can see that the ranking of the immunization strategies is No.1- unweighted betweenness centrality, No.2-degree k, No.3-strength s, No.4-random neighbor of random node, No.5-random node, No.6-unweighted clustering coefficient c. 
 
 ![](9.png)
 
